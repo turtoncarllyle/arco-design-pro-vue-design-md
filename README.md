@@ -1,4 +1,4 @@
-# arco-design-pro-vue-md
+# arco-design-pro-vue-design-md
 
 [简体中文](README.md) | [English](README.en-US.md)
 
@@ -26,7 +26,7 @@ DESIGN.md 是 Google Stitch 提出的纯文本设计系统格式。它把颜色�
 
 | 上游版本 | Vue | Arco Design Vue | 英文标准版 | 简体中文版 | GitHub Release |
 | --- | --- | --- | --- | --- | --- |
-| 2.7.3 | 3.2.47 | 2.45.0 | [DESIGN.md](versions/2.7.3/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.7.3/DESIGN.zh-CN.md) | [v2.7.3](https://github.com/turtoncarllyle/arco-design-pro-vue-md/releases/tag/v2.7.3) |
+| 2.7.3 | 3.2.47 | 2.45.0 | [DESIGN.md](versions/2.7.3/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.7.3/DESIGN.zh-CN.md) | [v2.7.3](https://github.com/turtoncarllyle/arco-design-pro-vue-design-md/releases/tag/v2.7.3) |
 
 英文 DESIGN.md 是默认的生态兼容版本，中文版保持相同章节、令牌、尺寸和规则。版本目录和 front matter 的 version 均表示上游版本；文档修正不增加新的修订号。
 
@@ -48,11 +48,11 @@ main 上的版本文档用于持续维护，Release 附件用于发布快照。�
 
 Windows PowerShell 下载英文版：
 
-    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-md/main/versions/2.7.3/DESIGN.md" -OutFile ".\DESIGN.md"
+    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-design-md/main/versions/2.7.3/DESIGN.md" -OutFile ".\DESIGN.md"
 
 下载简体中文版：
 
-    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-md/main/versions/2.7.3/DESIGN.zh-CN.md" -OutFile ".\DESIGN.md"
+    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-design-md/main/versions/2.7.3/DESIGN.zh-CN.md" -OutFile ".\DESIGN.md"
 
 推荐提示词：
 

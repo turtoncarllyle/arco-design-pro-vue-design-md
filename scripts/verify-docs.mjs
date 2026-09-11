@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Static and source-snapshot checks for arco-design-pro-vue-md. */
+/** Static and source-snapshot checks for arco-design-pro-vue-design-md. */
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';

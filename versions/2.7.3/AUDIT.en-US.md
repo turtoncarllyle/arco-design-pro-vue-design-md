@@ -1,5 +1,5 @@
 ---
-spec: arco-design-pro-vue-md-audit
+spec: arco-design-pro-vue-design-md-audit
 version: 2.7.3
 upstream_tag: v2.7.3
 source_commit: 27020819af653243b7b1a3e8e2481d6b3d798749

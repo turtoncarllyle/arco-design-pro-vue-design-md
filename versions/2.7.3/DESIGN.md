@@ -1,5 +1,5 @@
 ---
-spec: arco-design-pro-vue-md
+spec: arco-design-pro-vue-design-md
 version: 2.7.3
 upstream:
   repository: https://github.com/arco-design/arco-design-pro-vue

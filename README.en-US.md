@@ -1,4 +1,4 @@
-# arco-design-pro-vue-md
+# arco-design-pro-vue-design-md
 
 [简体中文](README.md) | [English](README.en-US.md)
 
@@ -26,7 +26,7 @@ The target is an operational admin application, not a marketing site, editorial 
 
 | Upstream | Vue | Arco Design Vue | Canonical English | Simplified Chinese | GitHub Release |
 | --- | --- | --- | --- | --- | --- |
-| 2.7.3 | 3.2.47 | 2.45.0 | [DESIGN.md](versions/2.7.3/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.7.3/DESIGN.zh-CN.md) | [v2.7.3](https://github.com/turtoncarllyle/arco-design-pro-vue-md/releases/tag/v2.7.3) |
+| 2.7.3 | 3.2.47 | 2.45.0 | [DESIGN.md](versions/2.7.3/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.7.3/DESIGN.zh-CN.md) | [v2.7.3](https://github.com/turtoncarllyle/arco-design-pro-vue-design-md/releases/tag/v2.7.3) |
 
 DESIGN.md is the canonical ecosystem-compatible edition. The Chinese edition keeps the same sections, tokens, measurements, and rules. The version directory and front matter version identify upstream; documentation corrections do not create another revision number.
 
@@ -48,11 +48,11 @@ Audit and evidence:
 
 Download the English edition with Windows PowerShell:
 
-    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-md/main/versions/2.7.3/DESIGN.md" -OutFile ".\DESIGN.md"
+    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-design-md/main/versions/2.7.3/DESIGN.md" -OutFile ".\DESIGN.md"
 
 Download the Simplified Chinese edition:
 
-    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-md/main/versions/2.7.3/DESIGN.zh-CN.md" -OutFile ".\DESIGN.md"
+    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/turtoncarllyle/arco-design-pro-vue-design-md/main/versions/2.7.3/DESIGN.zh-CN.md" -OutFile ".\DESIGN.md"
 
 Suggested prompt:
 
